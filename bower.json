@@ -4,8 +4,8 @@
   "main": [
     "js/bootstrap-notify.js",
     "css/bootstrap-notify.css",
-    "css/style/alert-bangtidy.css",
-    "css/style/alert-blackgloss.css"
+    "css/styles/alert-bangtidy.css",
+    "css/styles/alert-blackgloss.css"
   ],
   "dependencies": {},
   "description": "Bootstrap alert system made better.",
